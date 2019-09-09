@@ -26,9 +26,7 @@
 
 ### What is Git & GitHub?
 
-Git is a version control system that allows you to track changes to files over time, and allows you to revert to previous versions.
-
-Github is a web hosting service for code-based projects. It uses Git, but is not Git itself. A lot of the code on GitHub is publicly available, so that developers (and you!) can easily check out what other people are doing, download their code, use it, and also post changes/improvements to the source.
+Github is a web hosting service for code-based projects. A lot of the code on GitHub is publicly available, so that developers (and you!) can easily check out what other people are doing, download their code, use it, and also post changes/improvements to the source.
 
 Each project is contained in a "repository." Think of it as a independent folder for each project. For free Github accounts, all repositories are public. If you create a Github account with your SJSU email, you should AUTOMATICALLY be able to create unlimited private repositories.
 <br>
