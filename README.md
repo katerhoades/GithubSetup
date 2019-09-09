@@ -254,7 +254,7 @@ Note all the colors are in ***hexcodes***, a hashtag followed by six numbers or 
 <br>
 <br>
 
-# ▼△▼△▼ Use GitHub Pages
+# ▼△▼△▼ Using GitHub Pages
 If you have used GitHub before and previously created a website with a github.io address, then you won't be able to make a second github.io site. However, you can create what GitHub calls a "project" site and publish it using [GitHub pages](https://pages.github.com/).
 
 
